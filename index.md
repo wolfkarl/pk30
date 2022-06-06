@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Philipp & Karl werden 30
 
 You can use the [editor on GitHub](https://github.com/wolfkarl/pk30/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
